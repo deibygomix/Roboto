@@ -1,0 +1,21 @@
+.greenify{
+
+	text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+
+.bottom-space{
+	margin-bottom: 1.2em;
+}
+
+.img-position{
+    position: absolute;
+    top: 400px;
+    right: 600px;
+}
+
+.gradient{
+	height: 200px;
+    background: #D4FDEC; /* For browsers that do not support gradients */
+}
